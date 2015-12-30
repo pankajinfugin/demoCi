@@ -1,0 +1,50 @@
+Hello, Everyone! I'm Working on brownandjensen.com/dev website changes.
+Website - http://brownandjensen.com/dev/
+Meter - *Shankar Modgill*
+
+
+we can directly access website changes using server SSH with git
+
+[Friday, December 25, 2015 1:05 PM] Kamal Kumar: 
+
+<<< infugintesting
+Nu1r-ORDioohKamal Kumar, Friday 1:05 PM
+
+[Friday, December 25, 2015 1:05 PM] Kamal Kumar: 
+
+<<< infugintesting
+Nu1r-ORDioohKamal Kumar, Friday 1:05 PM
+
+
+107.180.0.220
+
+id_rsa
+~i4C]#uQZ.@)
+
+
+
+30B6Vy4SYEi9V0eIA2VJc9IdiDyd354uSyvAQHWklIOCYTKLRLspC3+Azsn7bx9v
+KwWnVAw+F1M5twFIndahuot0uVIZQSPe1xMmoW1ry73Ojqt1esie+kFljF863Jta
+Nhkv13dxQXEPkOomQS7iSkHaRKH6Ln2F8zZpvjma2eWkysoSgdAzwDMFJePAIDAI
+WW7YcJOV9HLOOYCkewniNBIzQV1fJORpG5h37WtMwk2MOedOGV+aeMyDlARG31lz
+AWjgeny2+JgTRh4zqMrpnQwc6st1P2BTay3/b2Eim4Rz/SiCIWkbJBH5KjVRRJB4
+juIOsxV0jx95Zp46qUfCIz1MFJlu2pKaEtcuTnNxxo+XYnCi+0KVr19R7oFEX+4n
+wVx4dehThpbsFdnvY7v9NJV3IYUKdC6hadyRpByw5y6wwmjBeoIhwCHC26BtlT0t
+6g0/jpzMy/UOzMht8apV08t8ref1SGcNiGFVqYa6ItjtO5cNtTGXa6YHERJYyYce
+ffG3icbHC+lc2AogFP73Sg3n17NRidLNECPOXQ3vBelmzv7UlRzjj+qJRBe1f41F
+AwZEKzIOul8qot0ObIc/CK/F06l4IC8M/cJTDyfnB/uzJKRiskL7NdLUSKkhiES+
+vJTbY3abuT8LequoulBSE7xOT036nQBhRPNoA7etvFdyH7sIDTFuumNXqgORSud3
+5kGP6QUiP9k+aenaSFhd3ezYE8hfczC/N5RCGEBpUB6lz3fOkoAGHpVZ64SsmWmP
+5KHZTfGFIkdCw3Tv6o4XFxDng0mJcRyvCHgNce0AjDqG6mz5A4z1+IGvyv58g6vd
+utFTC5N/R1SOLPOOUeSjhfCUWlySYNzElWwvBWuysMJEg/fB1EQ6xDxNd0Zu7B/A
+J+6uZEHs3nT5i80fLseDOZf5QVm0Wm6WYwxe/WxhWSiAI3lY0uAerwztblej0i0K
+YjLsDPmfEBeiksoxw8SiqPkOqgv93APP+prE3KGKtm/WzESsJ3Ga5LXWnUqMfBi/
+7yd6hLaJfdvTqHz1U2DBlwEzJghVXIBTkUqmLMDvdI5AqxxaE1rMvdi4qOsKvKQe
+qCaHuuyZn+qRXbVHFLJmx9IMCNGq4YNh5L6RKG4Nudh9uajiW21NvMRMahnQcv/I
+uIgn5mBuBnrJpSE2juozXEumJHR1rAT/A/G3v0t/Debk3Cm4ZFbyACNKzBX2hV1N
+sZGlIHZSJ8wk23w3rfq13yEPpCh6eH7BvhmLwHswOAXb3yuIBH17uO72Z7nuqS/D
+BwpEe1ZIbCn3vLMPDPNlRhs3YSbOCOILmEH7ECl43Ml7E6GqYj8JJNEHyiKFoIyX
+S2ERPXpzzIy2r8NOxqdZXEwXH3g648i7txVM8j5zjp5T9GGGcVYh6uamcmQVQC5a
+aj4eKq7zPyevCHziJyWXeILudUR2VIoF6i9okkZO6/z7AO7vNY+V9wrnL44gA/fd
+xpMW0YNxtYZkbnKhjez8JQhD1i93298xdawftot9oTlD7F17ZYUkUHefE9RFoudI
+o50IQDUv6pCBd8D2N8Qw/+6UL0iUhs8DADpGLbDooZ3ZgxKxDkGzVg==
